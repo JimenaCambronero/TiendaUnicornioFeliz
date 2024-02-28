@@ -1,14 +1,14 @@
 # Proyecto Tienda Unicornio Feliz 👩‍💻🦄📊⁣
-# 📊Análisis Financiero & Tráfico Web - Ecommerce 
+<h2>📊Análisis Financiero & Tráfico Web - Ecommerce </h2>
 
-# 📋Descripción del Proyecto
+<h3>📋Descripción del Proyecto</h3> 
 En este proyecto estaremos trabajando con una base de datos de retail online que se dedica a la venta de productos a través de su web.
 
-# 🎯El objetivo de este proyecto
+<h3>🎯El objetivo de este proyecto</h3> 
 Entender el conjunto de datos y el negocio
 Lograr crear queries complejas para responder a las neceidades de negocio
 
-# 📝Contexto
+<h3>📝Contexto</h3> 
 Te acaban de contratar para la empresa de ecommerce online llamada “tienda_unicornio_feliz”
 que se dedica a vender productos online de unicornios. Actualmente cuenta con 4 productos
 Como miembro del equipo de la startup, te va a tocar trabajar con el CEO, el director de
@@ -16,10 +16,10 @@ marketing y el Gerente de la web para analizar ciertas métricas que queremos me
 Tu objetivo será analizar la situación actual de la empresa. Medir la conversión de la web y usar
 datos para entender las ventas e impacto de los productos.
 
-# 🆘 El problema
+<h3>🆘 El problema </h3>
 Necesitamos responder a distintas preguntas de negocio que tiene el equipo directivo.
 
-# 🕵️ Habilidades Adquiridas
+<h3>🕵️ Habilidades Adquiridas </h3> 
 Creemos que tienes las habilidades necesarias para llevar a cabo este proyecto ya que
 concideramos que estas preparado para realizar las siguientes actividades:
 
@@ -33,10 +33,7 @@ concideramos que estas preparado para realizar las siguientes actividades:
 
 ✅  Escribir queries complejas que responden a necesidades de negocio
 
-# 🛠️Herramientas a utilizar
-En este proyecto utilizaremos lenguaje de SQL y el gestor de base de datos MYSQL
-
-# 🗃️ Base de datos .sql
+<h4> 🛠️Herramientas a utilizar  </h4>  En este proyecto utilizaremos lenguaje de SQL y el gestor de base de datos MYSQL 🗃️ Base de datos .sql
 
 # 💡Desarrollo | Ejecución
 # PARTE I - TEÓRICO Análisis de modelo relación
